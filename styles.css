@@ -1,4 +1,5 @@
 /*  your css code here. If applicable */
 .input {
+	color: red;
       accent-color: red;   /* changes radio button color */
 }
